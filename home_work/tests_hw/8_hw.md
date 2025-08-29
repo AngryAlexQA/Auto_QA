@@ -1,7 +1,6 @@
 # Домашнее задание №8 - `Александра Бужор`
-Отлично! Реализуем тесты для аккордеона на DemoQA.
 
-## 1. Создаем page object для Accordion
+## 1. Создаем page object 
 
 ```python
 # demoqa_home/pages/accordion.py

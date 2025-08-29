@@ -1,6 +1,6 @@
 # Домашнее задание №8 - `Александра Бужор`
 
-## 1. Создаем page object 
+## 1. Создаем page object для Accordion
 
 ```python
 # demoqa_home/pages/accordion.py

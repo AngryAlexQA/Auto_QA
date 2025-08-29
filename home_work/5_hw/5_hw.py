@@ -1,4 +1,4 @@
-# home_work/5_hw/5_hw.py
+# home_work/5_hw/5_hw.py - `Alexandra Bujor`
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By

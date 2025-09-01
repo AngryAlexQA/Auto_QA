@@ -159,7 +159,7 @@ class TestSwagLabs:
 
 ## Структура проекта
 
-```
+
 demoqa_home/
 ├── pages/           # Page Objects
 ├── tests/           # Тесты
